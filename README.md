@@ -1,5 +1,3 @@
-<img width="1280" height="536" alt="chrome-capture-2026-05-13" src="https://github.com/user-attachments/assets/b9f98774-f672-474d-8003-39eb643500ce" />
-<img width="1280" height="536" alt="chrome-capture-2026-05-13" src="https://github.com/user-attachments/assets/65c62681-a610-4674-92e3-663b22f7172b" />
 # What is purrrr
 purrrr is an installer for all Tabby Cat mods (Tabby Cat the chrome extension, not a mod to an actual Tabby Cat!)
 
