@@ -22,7 +22,7 @@ Just press "Select Folder" without selecting anything, once you have pressed tha
 Do what it says, this will also pop up even if you also select a font.
 
 
-If you have made a new (or old) Tabby Cat hack that is not on this installer just email me at caiiummog@gail.com (:
+If you have made a new (or old) Tabby Cat hack that is not on this installer just email me at caiiummog@gmail.com (:
 
 <img width="1280" height="536" alt="chrome-capture-2026-05-13" src="https://github.com/user-attachments/assets/d2581bc9-c4f6-46e2-9df8-ecadd5bf0d35" />
 
