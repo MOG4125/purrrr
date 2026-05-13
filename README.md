@@ -20,6 +20,7 @@ Just press "Select Folder" without selecting anything, once you have pressed tha
 <img width="752" height="468" alt="image" src="https://github.com/user-attachments/assets/bf101001-4679-44b4-9806-9cb91d1bcabf" />
 
 Do what it says, this will also pop up even if you also select a font.
+P.S. make sure to delete the original version of Tabby Cat if you have it installed.
 
 
 If you have made a new (or old) Tabby Cat hack that is not on this installer just email me at caiiummog@gmail.com (:
